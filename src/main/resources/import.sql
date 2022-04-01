@@ -1,0 +1,1 @@
+INSERT INTO personas(apellidos, documento, nombres, telefono) VALUES ("Ibarra Cano", 10003466, "Luis Miguel", 3045688);
