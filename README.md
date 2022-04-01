@@ -14,6 +14,6 @@ org.springframework.boot: 2.4.3
 
 ### Script de creación de DB MySQL
 <pre>
-`importante` antes de iniciar la app crear la db
+⚠ importante antes de iniciar la app crear la db
 CREATE DATABASE db_personas COLLATE utf8mb4_general_ci;
 </pre>
